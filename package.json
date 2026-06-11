@@ -1,0 +1,11 @@
+{
+  "name": "waline-comment",
+  "version": "1.0.0",
+  "description": "Waline comment system for blog.chulinchen.top",
+  "scripts": {
+    "dev": "node development.js 9090"
+  },
+  "dependencies": {
+    "@waline/vercel": "latest"
+  }
+}
